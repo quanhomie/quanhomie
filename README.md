@@ -6,10 +6,3 @@ apt install git
 
 apt install python2
 
-git clone https://github.com/nxxxu/AutoPixieWps
-
-cd AutoPixieWps
-
-chmod +x *
-
-python2 autopixie.py
